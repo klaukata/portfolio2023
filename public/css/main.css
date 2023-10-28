@@ -13,6 +13,13 @@ a {
   font-family: "Miniver", cursive;
 }
 
+.navtext {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #83B5D1;
+  margin-bottom: 0;
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -35,4 +42,13 @@ div.hero h1 {
 }
 div.hero p {
   font-size: 0.9em;
+}
+
+div.projects {
+  min-height: 40vh;
+  background: #4B3F72;
+}
+div.projects #title-name {
+  font-size: 1.5em;
+  font-weight: 600;
 }/*# sourceMappingURL=main.css.map */

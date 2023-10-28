@@ -1,0 +1,38 @@
+body {
+  background: #1F2041;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.miniver {
+  font-family: "Miniver", cursive;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header nav ul {
+  display: flex;
+  gap: 10px;
+}
+
+div.hero {
+  min-height: 60vh;
+}
+div.hero h3 {
+  font-size: 1.25em;
+}
+div.hero h1 {
+  font-size: 3em;
+  line-height: 0.85em;
+  margin-bottom: 0;
+}
+div.hero p {
+  font-size: 0.9em;
+}/*# sourceMappingURL=main.css.map */
